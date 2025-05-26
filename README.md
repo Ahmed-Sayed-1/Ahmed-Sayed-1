@@ -104,3 +104,8 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ahmed-Sayed-1&theme=radical&no-frame=true&row=2&column=4)
 
 </div>
+---
+<!-- Snake -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </p>

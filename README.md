@@ -22,8 +22,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-sayed4/)
 
 ---
-### 🤝 Connect with Me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sayed4/)
 
 ### 🛠️ Tech Stack
 

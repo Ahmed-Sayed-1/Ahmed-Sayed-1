@@ -6,9 +6,9 @@
 <a href="https://www.linkedin.com/in/ahmed-sayed4/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/Ahmed-Sayed-1">
+<!-- <a href="https://github.com/Ahmed-Sayed-1">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" alt="GitHub"/>
-</a>
+</a> -->
 
 </div>
 
